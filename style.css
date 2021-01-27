@@ -1,0 +1,39 @@
+body {
+    background: aqua;
+}
+
+
+.links {
+    float: left;
+    right: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    display: inline;
+}
+
+#begin {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#Avengers {
+    set-text: center;
+}
+
+
+.gh {
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10px;
+    position: fixed;
+    display: flex;
+}
+
+#Avengers {text-align:center;}
+
+#g {height:200px;}
